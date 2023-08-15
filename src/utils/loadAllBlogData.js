@@ -1,7 +1,7 @@
 import React from 'react';
 
 const loadAllBlogData = async() => {
-    const res = await fetch('http://localhost:5000/blogs/')
+    const res = await fetch('http://localhost:3002/blogs/')
     return res.json();
 };
 
