@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import db from "@/db.json";
+import db from '../../../../../db.json'
 
 export const GET = (request, { params }) => {
   let blogs = db.blogs;
