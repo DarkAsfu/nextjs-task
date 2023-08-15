@@ -1,7 +1,7 @@
 import React from 'react';
 
 const loadAllBlogData = async() => {
-    const res = await fetch('http://localhost:3002/blogs')
+    const res = await fetch('https://nextjs-task-ochre.vercel.app/api/blogs')
     return res.json();
 };
 

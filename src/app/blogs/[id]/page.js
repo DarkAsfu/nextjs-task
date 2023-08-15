@@ -9,7 +9,7 @@ export const metadata = {
 const SingleBlog = async ({ params }) => {
     const id = params.id;
     console.log(id);
-    const res = await fetch(`http://localhost:3002/blogs/${id}`)
+    const res = await fetch(`https://nextjs-task-ochre.vercel.app/api/blogs/${id}`)
     const blog = await res.json();
     console.log(blog);
     const { title, content, image, date, author } = blog;
