@@ -8,7 +8,7 @@ const BlogCard = ({ blog }) => {
     return (
         <div className="rounded overflow-hidden shadow-lg">
             <div href="#"><div className="relative">
-                <Image width={400} height={300} className="w-full" src={image} alt="Sunset in the mountains"/>
+                <Image width={400} height={300} className="w-full h-[300px]" src={image} alt="Sunset in the mountains"/>
                     <div className="hover:bg-transparent transition duration-300 absolute bottom-0 top-0 right-0 left-0 bg-gray-900 opacity-25"></div>
                     <a href="#!"><span className="absolute bottom-0 left-0 bg-indigo-600 px-4 py-2 text-white text-sm hover:bg-white hover:text-indigo-600 transition duration-500 ease-in-out">
                         Photos
