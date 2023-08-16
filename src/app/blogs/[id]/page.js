@@ -16,7 +16,7 @@ const SingleBlog = async ({ params }) => {
     return (
         <div className="card w-3/4 mx-auto bg-base-100 shadow-xl my-24">
             <div className='md:flex justify-between'>
-            {/* <Image width={500} height={400}  src={image} alt="Shoes" /> */}
+            <Image width={500} height={400}  src={image} alt="Shoes" />
             <div className="card-body">
                 <h2 className="card-title">{title}</h2>
                 <p className='my-4'>{content}</p>
