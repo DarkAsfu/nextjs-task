@@ -6,7 +6,7 @@
       "author": "John Doe",
       "date": "2023-08-01",
       "content": "In this comprehensive tutorial, we'll guide you through the process of setting up a full-stack application using the MERN (MongoDB, Express, React, Node.js) stack. From configuring your development environment to deploying your app, you'll learn the fundamentals of each technology and how they work together to create modern web applications. This tutorial is suitable for beginners and intermediate developers looking to expand their skillset. By the end of this tutorial, you'll have a solid grasp of building dynamic and interactive web applications, handling data with MongoDB, creating RESTful APIs with Express, and managing state with React. Whether you're building a personal project or considering a career as a full-stack developer, this tutorial will equip you with the knowledge needed to succeed.",
-      "image": "https://i.ibb.co/qsdkRbH/pexels-pixabay-261579.jpg"
+      "image": "https://i.ibb.co/87rFMxc/MERN.jpg"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "author": "Jane Smith",
       "date": "2023-08-05",
       "content": "Explore the power of server-side rendering (SSR) by combining Next.js and Express. We'll cover the benefits of SSR, demonstrate how to set up server-side rendering in a Next.js app, and show you how to optimize performance and SEO with this approach. Server-side rendering enhances the user experience by delivering faster initial page loads and improving search engine discoverability. By leveraging the capabilities of Next.js and Express, you'll be able to create dynamic web applications that perform well across different devices and network conditions. Whether you're building an e-commerce site, a blog, or a data-driven dashboard, mastering SSR with Next.js and Express will elevate your development skills and lead to more engaging and responsive user experiences.",
-      "image": "https://i.ibb.co/qsdkRbH/pexels-pixabay-261579.jpg"
+      "image": "https://i.ibb.co/FXDMxrc/next-express.jpg"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "author": "Michael Johnson",
       "date": "2023-08-10",
       "content": "Dive deep into MongoDB performance optimization techniques for MERN stack applications. As your application's data grows, maintaining a high level of performance becomes essential. This tutorial will walk you through various strategies for improving query performance, implementing proper indexing, and designing efficient database schemas. You'll also learn about the importance of connection pooling and how to leverage caching mechanisms to reduce database load. Whether you're a backend developer or a full-stack enthusiast, mastering MongoDB performance optimization will ensure that your MERN applications remain responsive and scalable.",
-      "image": "https://i.ibb.co/qsdkRbH/pexels-pixabay-261579.jpg"
+      "image": "https://i.ibb.co/jbHcRfV/mongodb.png"
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "author": "Emily Williams",
       "date": "2023-08-15",
       "content": "Learn how to create robust RESTful APIs using Express and Node.js. In this tutorial, we'll guide you through the process of designing, implementing, and securing APIs that power modern web applications. You'll understand the principles of RESTful architecture, create routes for CRUD operations, and implement middleware for authentication and validation. By the end of this tutorial, you'll have the skills to build a scalable backend for your MERN stack projects and connect your frontend to the API endpoints with confidence.",
-      "image": "https://i.ibb.co/qsdkRbH/pexels-pixabay-261579.jpg"
+      "image": "https://i.ibb.co/6wFbDRt/rest-api.png"
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "author": "Robert Martin",
       "date": "2023-08-20",
       "content": "Master the art of deploying Next.js applications to Vercel, a platform designed for seamless deployment. This tutorial will take you through the entire deployment process, from connecting your Git repository to configuring custom domains and setting up environment variables. You'll also explore advanced deployment features such as serverless functions and preview deployments. By the end, you'll have a production-ready Next.js app that's easily accessible to users and provides an exceptional user experience.",
-      "image": "https://i.ibb.co/qsdkRbH/pexels-pixabay-261579.jpg"
+      "image": "https://i.ibb.co/1dD2Z13/next-deploy.png"
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "author": "Sara Thompson",
       "date": "2023-08-25",
       "content": "Implement secure authentication and authorization mechanisms in MERN stack applications. This tutorial will cover user registration, login, password hashing, and role-based access control. You'll learn how to integrate popular authentication libraries, such as Passport.js and JSON Web Tokens (JWT), to create a secure login system. Additionally, you'll explore authorization strategies to control user access to specific routes and resources. By the end of this tutorial, you'll be equipped with the knowledge to build user-friendly and secure authentication systems for your MERN apps.",
-      "image": "https://i.ibb.co/qsdkRbH/pexels-pixabay-261579.jpg"
+      "image": "https://i.ibb.co/pfxtHzx/auth.png"
     },
     {
       "id": 7,
